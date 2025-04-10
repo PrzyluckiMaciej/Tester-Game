@@ -1,0 +1,34 @@
+{
+    "name": "CameraInputActions",
+    "maps": [
+        {
+            "name": "Camera",
+            "id": "b5106690-e240-48a5-948a-84de636a34f5",
+            "actions": [
+                {
+                    "name": "Look",
+                    "type": "Value",
+                    "id": "85d9fbd3-0236-4dca-9bf3-2aa1382de094",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f208655f-4be1-4cdc-95e2-a3fbed378cef",
+                    "path": "<Pointer>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Look",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

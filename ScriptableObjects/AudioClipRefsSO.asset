@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60d7e75f3cda62f4b9b53ec0f869ecbd, type: 3}
+  m_Name: AudioClipRefsSO
+  m_EditorClassIdentifier: 
+  playerLand: {fileID: 8300000, guid: e560d9fa627664443a81f5fb584f21e7, type: 3}
+  grab: {fileID: 8300000, guid: 54629c739ebd4a44eb179586aa98409f, type: 3}
+  drop: {fileID: 8300000, guid: e6fa23f92bf0e1144a42f9a3c83dc2d1, type: 3}
+  objectMove: {fileID: 8300000, guid: f23897bae25368d4f848ef57c038a56a, type: 3}
+  platePress: {fileID: 8300000, guid: cd66ed288bd8c8b46a43c0bc6f68fc89, type: 3}
+  switchActivation: {fileID: 8300000, guid: a16743a961ce5494db15906d434eff5b, type: 3}
